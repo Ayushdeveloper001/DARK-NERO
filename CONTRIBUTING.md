@@ -1,2 +1,2 @@
-Respect all credit's 
- 
+credit: 
+ Ayush
