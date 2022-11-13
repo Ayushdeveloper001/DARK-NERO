@@ -1,5 +1,5 @@
 {
-  "name": "ZIM-MD",
+  "name": "AYUSH",
   "version": "1.2.3", 
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -74,10 +74,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/zimbot-v3.git"
+    "url": "git+https://github.com/ayushdeveloper001"
   },
   "bugs": {
-    "url": "https://github.com/zim-bot/zimbot-v3/issues"
+    "url": "https://github.com/ayushdeveloper001"
   },
-  "homepage": "https://github.com/zim-bot/zimbot-v3#readme"
+  "homepage": "https://github.com/ayushdeveloper001"
 }
