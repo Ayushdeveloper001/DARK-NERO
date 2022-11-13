@@ -1,7 +1,7 @@
 //global
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮Dark Nero BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮Ayush BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -16,6 +16,6 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS TO AYUSH
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
