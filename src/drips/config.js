@@ -4,21 +4,21 @@
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
+//▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
+//▮ak8602306506@gmail.com
+//▮WHATSAPP US : +918602306506
+//▮YOUTUBE CHANNELL: https://www.youtube.com/channel/UCLvcDqqcr56Uy_rhca0TpfA
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
-//┃THIS SOFTWARE INCLUDES 
+//┃ZimBotInc SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS TO AYUSH
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
